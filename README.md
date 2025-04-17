@@ -6,6 +6,7 @@
 * Zgodność programistyczna i hardwarowa z płytką "RP2040-Zero"
 * Wymiary płytki: 69 mm x 38 mm
 * 2 dedykowane wyjścia do modułów LED RBG
+* Wlutowany fotorezystor do regulacji jasności świecenia 
 * Wbudowany enkoder inkrementalny z przyciskiem i filtrami RC
 * Wbudowany dokładny (±3.5ppm) zegar czasu rzeczywistego DS3231 (zegar 12/24 godzinny + kalendarz)
 * Bateria guzikowa 1220 podtrzymująca działanie zegara podczas braku zasilania
