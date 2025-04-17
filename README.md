@@ -1,4 +1,4 @@
-# PCB-RP2040-RGB-Clock-Y13
+# Sterownik RP2040-RGB-Clock-Y13
 ## Arduino - Zestaw RP2040-Zero + zegar i sterownik LED RGB
 ## Główne cechy
 * Wbudowany mikrokontroler to dwurdzeniowy **RP2040** produkowany przez Raspberry Pi
