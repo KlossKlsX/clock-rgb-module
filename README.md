@@ -4,7 +4,7 @@
 * Wbudowany mikrocontroler to dwurdzeniowy **RP2040** produkowany przez Raspberry Pi
 * Zgodność programistyczna ze środowiskiem Arduino
 * Zgodność programistyczna i hardwarowa z płytką "RP2040-Zero"
-* Wyymiary płytki: 69 mm x 38 mm
+* Wymiary płytki: 69 mm x 38 mm
 * 2 dedykowane wyjścia do modułów LED RBG
 * Wbudowany enkoder inkrementalny z przyciskiem i filtrami RC
 * Wbudowany dokładny (±3.5ppm) zegar czasu rzeczywistego DS3231 (zegar 12/24 godzinny + kalendarz)
@@ -45,4 +45,4 @@ Dodatkowe bilbioteki do Arduino instalowane z "Library manager" w Arduino wraz z
 
 W celu kompilacji i wgrania programu z Arduino należy wybrać płytkę **"Waveshare RP2040 Zero"**.
 
-Do wgrania możyy być wymaganyy restart (reset) płytki z wciśniętyym przyciskiem Boot.
+Do wgrania może być wymagany restart (reset) płytki z wciśniętym przyciskiem Boot.
